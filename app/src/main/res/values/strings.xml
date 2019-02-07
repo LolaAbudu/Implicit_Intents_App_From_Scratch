@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Implicit Intent App From Scratch</string>
+    <string name="zodiac_image">zodiac image</string>
+    <string name="submit_button">View Horoscope</string>
+</resources>
